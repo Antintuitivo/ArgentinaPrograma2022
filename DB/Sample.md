@@ -1,0 +1,1 @@
+En esta carpeta se subirán los archivos correspondientes a la base de datos en caso de ser necesario.
