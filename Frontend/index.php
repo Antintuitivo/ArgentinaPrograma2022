@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="../../ArgentinaPrograma2022/bootstrap/css/bootstrap-grid.css">
     <link rel="stylesheet" href="../../ArgentinaPrograma2022/Frontend/css/index.css">
     <script src="../../ArgentinaPrograma2022/bootstrap/js/bootstrap.js"></script>
+    <script src="../../ArgentinaPrograma2022/Frontend/ts/modal.ts"></script>
     <title>Document</title>
 </head>
 <body>
@@ -46,7 +47,7 @@
                 </li>
             </ul>
             <!-- Button trigger modal -->
-            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
+            <button type="button" class="btn btn-primary" id="login">
             Login
             </button>
 
@@ -173,7 +174,7 @@
                 </div>
             </div>
         </div>
-<!--    <div class="pop-up_form">
+        <!--<div id="formulario">
             <form action="" class="">
                 <h2>Login</h2>
                 <label for="email">Correo</label>
@@ -184,7 +185,7 @@
                 
                 <button type="submit">Ingresar</button>
             </form>
-        </div> -->
+        </div>--> 
     </div>
     <footer>redes sociales y contactos</footer>
 </body>

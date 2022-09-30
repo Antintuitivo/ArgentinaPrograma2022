@@ -43,3 +43,11 @@ footer{
     margin-top: 1.5%;
 }
 
+#formulario{
+    background-color: grey;
+    width: 25%;
+    height: 75%;
+    display:flex;
+    align-content: center;
+    justify-content: center;
+}
